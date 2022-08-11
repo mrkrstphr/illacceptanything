@@ -362,6 +362,10 @@ ps.imapankace
 (╯°□°）╯︵ ┻━┻
 
 
+Anything-goes diagram. Add you ideas here in the [./diagram](./diagram) directory
+
+![alt texts are dumb](diagram/diagram.png)
+
 ======
 # Poll
 
